@@ -1,6 +1,6 @@
 ## An efficient workflow for reproducible science
 
-![](/img/scipy.png)
+![](img/scipy.png)
 
 Trevor Bekolay <br>
 University of Waterloo
@@ -23,7 +23,7 @@ when I started my PhD.
 
 ## An efficient workflow for <del>reproducible</del> <ins>recreatable</ins> science
 
-![](/img/scipy.png)
+![](img/scipy.png)
 
 Trevor Bekolay <br>
 University of Waterloo
@@ -741,4 +741,4 @@ and I didn't have to learn any new all-encompassing analysis pipeline
 
 ----
 
-[slides] | [<span data-icon="&#xe003;"></span> tbekolay](https://github.com/tbekolay) | [tbekolay@gmail.com](mailto:tbekolay@gmail.com)
+[bekolay.org/scipy2013-workflow](http://bekolay.org/scipy2013-workflow) | [tbekolay@gmail.com](mailto:tbekolay@gmail.com)
