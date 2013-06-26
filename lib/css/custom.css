@@ -16,40 +16,30 @@ div.tip {
   vertical-align: middle;
 }
 
-.reveal pre {
-  width: 75%;
-  font-size: 75%;
-}
-
 .reveal .two-col {
   moz-column-count: 2;
   -webkit-column-count: 2;
   column-count: 2;
-  /* -moz-column-gap: 24px; */
-  /* -webkit-column-gap: 24px; */
-  /* column-gap: 24px; */
-}
-
-.reveal .no-bullet {
-  list-style-type: none;
-}
-
-.reveal code {
-  font-family: "Inconsolata", monospace;
 }
 
 .reveal h1, .reveal h2, .reveal h3,
 .reveal h4, .reveal h5, .reveal h6  {
+  line-height: 1.1em;
   margin-bottom: 40px;
 }
 
-.reveal section img {
-  border: none;
-  box-shadow: none;
-}
+.reveal pre { width: 75%; font-size: 75%; }
+
+.reveal .no-bullet { list-style-type: none; }
+
+.reveal code { font-family: "Inconsolata", monospace; }
+
+.reveal section img { border: none; box-shadow: none; }
 
 .reveal del { color: red; }
 .reveal ins { color: blue; }
+
+.subtitle{ color: #808080; padding-top: 20px; }
 
 svg rect { stroke-width: 0.5; stroke: #222; fill: none; }
 svg line { stroke-width: 1.0; stroke: #222; fill: none; }

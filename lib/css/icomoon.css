@@ -24,17 +24,3 @@
 /* file-xml: "&#xe001;" */
 /* file: "&#xe002;" */
 /* github: "&#xe003;" */
-
-/* Use the following CSS code if you want to have a class per icon */
-.icon-folder-open:before {
-  content: "\e000";
-}
-.icon-file-xml:before {
-  content: "\e001";
-}
-.icon-file:before {
-  content: "\e002";
-}
-.icon-github:before {
-  content: "\e003";
-}
