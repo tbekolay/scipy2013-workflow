@@ -90,7 +90,7 @@ python run.py
 ## 1 project : 1 directory
 <div class='tip'>Tip 1</div>
 
-* When you start a ???, make a new directory
+* When you start making an artifact, make a new directory
 
 <aside class="notes">
 * People consume your research as the artifact
